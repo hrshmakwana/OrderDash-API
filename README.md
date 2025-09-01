@@ -26,7 +26,7 @@ This is a complete, enterprise-grade back-end RESTful API for a food delivery se
 ### Configuration
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/OrderDash-API.git](https://github.com/your-username/OrderDash-API.git)
+    git clone https://github.com/hrshmakwana/OrderDash-API.git
     ```
 2.  **Create the PostgreSQL Database:**
     ```sql
