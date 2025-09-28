@@ -43,7 +43,7 @@ This API follows a classic **3-Layer Architecture** to ensure a clean separation
 ### Configuration
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/hrshmakwana/OrderDash-API.git](https://github.com/hrshmakwana/OrderDash-API.git)
+    git clone https://github.com/hrshmakwana/OrderDash-API.git
     ```
 2.  **Create the PostgreSQL Database:**
     ```sql
